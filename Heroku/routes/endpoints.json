@@ -1,0 +1,7 @@
+{
+  "/services/rest/": {
+    "GET":{
+      "arguments":[]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "dug-presentation",
+  "version": "0.1.0",
+  "description": "No description.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.6.3",
+    "bookshelf": "^0.7.7",
+    "cookie-parser": "^1.3.2",
+    "debug": "^1.0.4",
+    "express": "^4.8.3",
+    "express-xml-bodyparser": "0.0.4",
+    "knex": "^0.6.22",
+    "mongodb": "^1.4.8",
+    "morgan": "^1.2.2",
+    "pg": "^3.4.1",
+    "soap": "^0.5.0",
+    "xml2js": "^0.4.4"
+  },
+  "author": "Bradley Delaune",
+  "engines": {
+    "node": "0.10.30"
+  }
+}
